@@ -54,4 +54,5 @@ The analysis combines **Python**, **SQL**, and **Power BI** to build an end-to-e
 1. Install dependencies:
    ```bash
    pip install pandas matplotlib seaborn mysql-connector-python
+<img width="908" height="514" alt="Screenshot 2025-11-05 173939" src="https://github.com/user-attachments/assets/1ab95192-f201-49b5-9b52-1f3379c2b043" />
 
