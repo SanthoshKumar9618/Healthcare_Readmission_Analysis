@@ -22,11 +22,15 @@ The analysis combines **Python**, **SQL**, and **Power BI** to build an end-to-e
 ### 1️⃣ Overview Dashboard
 - KPIs: Total Patients, Readmission Rate, Avg Hospital Stay  
 - Visuals: Donut chart, Gauge, Card visuals
+- <img width="908" height="514" alt="Screenshot 2025-11-05 173939" src="https://github.com/user-attachments/assets/1ab95192-f201-49b5-9b52-1f3379c2b043" />
+
 
 ### 2️⃣ Demographics Analysis
 - Gender vs Readmission  
 - Race vs Readmission  
 - Age Group vs Readmission %
+- <img width="889" height="502" alt="Screenshot 2025-11-05 174001" src="https://github.com/user-attachments/assets/3df4ebee-5988-4cd5-91b6-38a12942a609" />
+
 
 ### 3️⃣ Diagnosis & Treatment Trends
 - Top Diagnoses by Readmission Count  
@@ -54,5 +58,4 @@ The analysis combines **Python**, **SQL**, and **Power BI** to build an end-to-e
 1. Install dependencies:
    ```bash
    pip install pandas matplotlib seaborn mysql-connector-python
-<img width="908" height="514" alt="Screenshot 2025-11-05 173939" src="https://github.com/user-attachments/assets/1ab95192-f201-49b5-9b52-1f3379c2b043" />
 
