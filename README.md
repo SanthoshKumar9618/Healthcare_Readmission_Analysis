@@ -36,8 +36,10 @@ The analysis combines **Python**, **SQL**, and **Power BI** to build an end-to-e
 - Top Diagnoses by Readmission Count  
 - Scatter Plot: Lab Procedures vs Medications  
 - Table: Diagnosis Code vs Readmission %
+<img width="902" height="505" alt="Screenshot 2025-11-05 174129" src="https://github.com/user-attachments/assets/421aa6d4-d847-407d-a85e-ee8cbc0f3d2b" />
 
 ### 4️⃣ Hospital Operations Insights
+
 - Average Length of Stay KPI  
 - Histogram: Time in Hospital Distribution  
 - Table: Admission Type vs Readmission Rate
